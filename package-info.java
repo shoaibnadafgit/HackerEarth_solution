@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Irshad
+ *
+ */
+package HackerEarth;
